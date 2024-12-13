@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-Actualmente trabajo en NTTDATA COLOMBIA - Desarrollador .Net, Consultor<br>Estoy aprendiendo PYTHON, POWER BI, TABLEAU, EXCEL AVANZADO, DEVOPS
+Actualmente trabajo en NOftalmos SAS - Desarrollador .Net, Consultor<br>Estoy aprendiendo PYTHON, POWER BI, TABLEAU, EXCEL AVANZADO, DEVOPS
 
 
 ## 🌐 Socials:
